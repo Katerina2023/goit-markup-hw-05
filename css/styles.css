@@ -557,8 +557,8 @@ background-color: #404bbf;
   0px 1px 1px rgba(46, 47, 66, 0.16),
   0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-.main-link-portfolio :hover .overlay,
-.main-link-portfolio :focus .overlay {
+.main-link-portfolio:hover .overlay,
+.main-link-portfolio:focus .overlay {
   transform: translateY(0%);
 }
 
