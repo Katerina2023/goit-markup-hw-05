@@ -561,8 +561,9 @@ background-color: #404bbf;
   transform: translateY(0%);
 }
 
-.main-link-portfolio :focus .overlay {
-  transform: translateY(0%);}
+.main-link-portfolio :focus.overlay{
+  transform: translateY(0%);
+}
 
 .portfolio-btn {
   font-family: "Roboto", sans-serif;
